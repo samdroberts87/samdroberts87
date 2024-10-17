@@ -1,5 +1,5 @@
 ## Hi there, I'm Sam 👋
-I'm a DevOps apprentice, based in Yorkshire
+I'm a DevOps apprentice, based in Yorkshire, UK
 
 I enjoy writing python
 
