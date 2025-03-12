@@ -5,3 +5,8 @@ I'm a DevOps engineer, based in Yorkshire, UK
 
 
 ![alt text](https://www.codewars.com/users/samdroberts87/badges/large)
+
+[![GitHub Actions](https://images.credly.com/size/680x680/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](https://www.credly.com/badges/9c26e093-dd3f-455a-aac1-ad94ace864af)
+
+[![GitHub Actions](https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/e1e6197b-762d-44c8-8f9f-c33a74df030e)
+
